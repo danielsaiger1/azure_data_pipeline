@@ -1,0 +1,4 @@
+.env
+venv
+__pycache__
+Crime_Data_from_2020_to_Present.csv
