@@ -14,7 +14,7 @@ Raw data gets loaded into the bronze layer. After that, gets transformed and mov
 
 Secrets are handled with Azure Key Vault
 
-![image](https://github.com/user-attachments/assets/61a1eab1-ae72-476d-b4fe-b45bd2aa5130)
+![image](https://github.com/user-attachments/assets/46794a1d-f7b6-4dd1-b141-ae57290172ba)
 
 
 
