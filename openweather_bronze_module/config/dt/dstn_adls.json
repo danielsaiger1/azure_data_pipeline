@@ -1,6 +1,6 @@
 {
-    "storage_account_name": "storagecrimeweather",
-    "container_name": "crimeweatherbronze",
-    "file_path": "weather_bronze/",
-    "storage_account_secret_name": "crime-weather-secret"
+    "storage_account_name": "YOUR_STORAGE_ACCOUNT_NAME",
+    "container_name": "YOUR_CONTAINER_NAME",
+    "file_path": "YOUR_FILE_PATH",
+    "storage_account_secret_name": "YOUR_SECRET_NAME"
 }
